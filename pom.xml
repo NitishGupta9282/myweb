@@ -14,9 +14,7 @@
         </properties>
 	
 	
-	<properties>
-		<docker.image.prefix>kammana</docker.image.prefix>
-	</properties>
+	
 	
 	<dependencies>
 
