@@ -8,20 +8,18 @@
 	<name>Java Home myweb</name>
 	<url>http://maven.apache.org</url>
 	
-	
-	
-	
-	<properties>
-		<docker.image.prefix>kammana</docker.image.prefix>
-	</properties>	
-	<dependencies>
-		
 	<properties>
         <maven.compiler.source>6</maven.compiler.source>
         <maven.compiler.target>1.6</maven.compiler.target>
         </properties>
+	
+	
+	<properties>
+		<docker.image.prefix>kammana</docker.image.prefix>
+	</properties>
+	
+	<dependencies>
 
-		
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
